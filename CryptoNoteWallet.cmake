@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "RealTradeXCoin")
-set(CN_CURRENCY_DISPLAY_NAME "RealTradeXCoin")
+set(CN_PROJECT_NAME "realtradex")
+set(CN_CURRENCY_DISPLAY_NAME "realtradex")
 set(CN_CURRENCY_TICKER "RTXC")
